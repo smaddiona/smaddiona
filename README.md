@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @smaddiona
 - 👀 I’m interested in literally everithing that helps to create native apps and web apps
-- 🌱 I’m currently learning react-native, postgres, node.js
+- 🌱 I’m currently learning angular, postgres, node.js
 - 💞️ I’m looking to collaborate on everything, i dunno just hmu
 - 📫 How to reach me simonemaddiona.it
