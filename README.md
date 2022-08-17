@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @smaddiona
-- 👀 I’m interested in literally everithing that helps to create native apps and web apps
-- 🌱 I’m currently learning angular, postgres, node.js
+- 🌱 Angular, React, Ionic, Tauri, NodeJS, Nodered, PostgreSQL, MongoDB
 - 💞️ I’m looking to collaborate on everything, i dunno just hmu
-- 📫 How to reach me simonemaddiona.it
+- 📫 How to reach me info@logicaltech.it
