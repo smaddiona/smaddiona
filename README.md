@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @smaddiona
-- 🌱 Angular, React, Ionic, Tauri, NodeJS, Nodered, PostgreSQL, MongoDB
-- 💞️ I’m looking to collaborate on everything, i dunno just hmu
-- 📫 How to reach me maddiona.simone@gmail.com
+- 🌱 React, Ionic, NodeJS, Tauri, Nodered, PostgreSQL, MongoDB
+- Proudly developing [Pokéos](https://beta.pokeos.com/announcement)!
+- 
